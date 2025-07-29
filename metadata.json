@@ -1,0 +1,6 @@
+{
+  "name": "LearnAI: AI Course Generator",
+  "description": "An application that uses the Gemini API to generate an adaptive learning course on any topic, presented in a clean, minimalistic interface.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
